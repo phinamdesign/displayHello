@@ -7,6 +7,5 @@ public class displayHello {
         System.out.println("Nhap ten");
         String name = scanner.nextLine();
         System.out.println("Xin chao "+name);
-        System.out.println("Xin chao "+name);
     }
 }
